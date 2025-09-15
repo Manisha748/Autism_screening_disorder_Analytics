@@ -44,7 +44,7 @@ to support **data-driven insights and decision-making**.
 - **Total Records:** 248 (post-cleaning)  
 - **Accuracy %:** 47.98% (119 correct, 129 wrong)
   
- ![KPI]("C:\Users\rober\OneDrive\Pictures\kpi.png")
+ ![KPI](<img width="226" height="126" alt="Image" src="https://github.com/user-attachments/assets/9700b680-8060-4133-a9a2-e46ef08acebc" />)
 
 
 ### 🔹 Autism by Age
